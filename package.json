@@ -1,0 +1,23 @@
+{
+  "name": "resume_project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000r\u0000e\u0000p\u0000o\u0000s\u0000i\u0000t\u0000o\u0000r\u0000y\u0000_\u0000i\u0000n\u0000t\u0000e\u0000l\u0000l\u0000i\u0000g\u0000e\u0000n\u0000c\u0000e\u0000_\u0000p\u0000l\u0000a\u0000t\u0000f\u0000o\u0000r\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.29.7",
+    "@babel/traverse": "^7.29.7",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "graphology": "^0.26.0",
+    "nodemon": "^3.1.14"
+  }
+}
